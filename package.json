@@ -1,0 +1,22 @@
+{
+  "name": "socialhub",
+  "version": "1.0.0",
+  "description": "Social Hub is internal Project to share though internally with with in the organization",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barkatali8016/SocialHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barkatali8016/SocialHub/issues"
+  },
+  "homepage": "https://github.com/barkatali8016/SocialHub#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
